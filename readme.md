@@ -65,20 +65,11 @@
 
 <br/>  
 
-
+<div align="center">
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=miahandrio&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=miahandrio&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=miahandrio&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+</div>
 ---
-
-
-<br/>  
-<br/>  
-<br/>  
-<br/>  
-<br />
-
-----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
